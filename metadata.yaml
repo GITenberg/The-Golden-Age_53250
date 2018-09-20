@@ -1,10 +1,13 @@
 _repo: The-Golden-Age_53250
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Moony, R. J. E.
     gutenberg_agent_id: '47307'
     url: http://www.gutenberg.org/2009/agents/47307
+covers:
+- cover_type: archival
+  image_path: 53250-h/images/cover-real.jpg
 creator:
   author:
     agent_name: Grahame, Kenneth
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/153
     wikipedia: http://en.wikipedia.org/wiki/Kenneth_Grahame
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53250#The-Golden-Age
 gutenberg_issued: '2016-10-10'
 gutenberg_type: Text
 identifiers:
